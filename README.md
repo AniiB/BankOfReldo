@@ -3,8 +3,7 @@
 
 Fetch the exchange rates of major world currencies at the click of a button. Reldo will get the latest rates!
 
-## Tech used: 
-HTML | CSS | Vanilla JS
+## Tech used: HTML | CSS | Vanilla JS
 
 My learning was focused on fetching data from an API and then use it to manipulate the DOM.
 
